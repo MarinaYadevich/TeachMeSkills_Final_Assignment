@@ -1,0 +1,6 @@
+[2025-01-05 11:48:07] [ACTION] Starting processing folder: invoices
+[2025-01-05 11:48:07] [ACTION] Starting processing folder: orders
+[2025-01-05 11:48:07] [ACTION] Starting processing folder: checks
+[2025-01-05 11:48:07] [ACTION] End of work 
+----------------------------------------
+
