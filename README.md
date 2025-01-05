@@ -13,7 +13,7 @@ The program ensures thorough validation of input data, logging of both general i
 nd clear separation of logs into separate files. It also performs cleanup by moving invalid files into a
 designated folder and securely stores keys and configuration in a properties file.
 
-----------------------------------------Solution-diagram----------------------------------------------------------------
+----------------------------------------Solution-diagram---------------------------------------------------
 
 Solution Diagram for Payment Document Processing Program
 
@@ -101,6 +101,6 @@ Step 4: Reporting and Storage
 3. Logs are saved locally (general and error logs).
 
 
------------------------------------------------Sequence Diagram-----------------------------------------------------------
+-----------------------------------------------Sequence Diagram----------------------------------------------
 
 ![Sequence Diagram.png](diagrams/Sequence%20Diagram.png)
