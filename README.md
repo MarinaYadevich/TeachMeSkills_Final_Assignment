@@ -103,5 +103,4 @@ Step 4: Reporting and Storage
 
 -----------------------------------------------Sequence Diagram-----------------------------------------------------------
 
-![Sequence Diagram.png](../TeachMeSkills_Final_Assignment-main-2/diagrams/Sequence%20Diagram.png)
-
+![Sequence Diagram.png](diagrams/Sequence%20Diagram.png)
